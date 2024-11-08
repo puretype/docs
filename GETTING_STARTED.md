@@ -1,6 +1,11 @@
+---
+description: Get feedback and learning material in a few minutes
+---
+
 # Getting started
 
 There's just a few steps to start getting value out of PureType:
+
 1. Download the IDE assistant
 2. Assign PureType for pull request review
 3. Check your knowledge journey
