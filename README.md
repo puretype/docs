@@ -1,6 +1,6 @@
 ---
-description: A platform for continuous developer education
 icon: bullseye-arrow
+description: A platform for continuous developer education
 ---
 
 # What is PureType?
@@ -24,7 +24,9 @@ See [SCM and IDE integrations](scm-and-ide-integrations.md) for more details abo
 
 ### What does PureType cost?
 
-Puretype has several pricing plans available, from Public (free) to Professional. See [the pricing](https://puretype.ai/#pricing).
+PureType is a monthly subscription product, with different pricing levels aimed at different use cases.
+
+There are several pricing plans available, from Public (free) to Professional. See [the pricing](https://puretype.ai/#pricing).
 
 ### What happens with my code?
 
