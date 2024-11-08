@@ -20,7 +20,7 @@ See [Supported languages and technologies](overview/supported-languages-and-tech
 
 There are PureType integrations for different stages of your software development lifecycle, such as SCMs (e.g. GitHub) and IDEs (e.g. Visual Studio Code).
 
-See ... for more details.
+See [SCM and IDE integrations](scm-and-ide-integrations.md) for more details about how to integrate PureType into your software development workflow.
 
 ### What does PureType cost?
 
