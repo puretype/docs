@@ -1,5 +1,6 @@
 ---
 description: Get feedback and learning material in a few minutes
+icon: play
 ---
 
 # Getting started

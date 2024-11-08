@@ -1,5 +1,6 @@
 ---
 description: How PureType handles the security of your code for review
+icon: lock-keyhole
 ---
 
 # How PureType handles your data

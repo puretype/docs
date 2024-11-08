@@ -4,6 +4,7 @@
 
 * [What is PureType?](README.md)
 * [Getting started](GETTING\_STARTED.md)
+* [Supported languages and technologies](overview/supported-languages-and-technologies.md)
 
 ## Working with PureType
 
