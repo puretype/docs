@@ -11,6 +11,7 @@
 
 * [Overview](the-knowledge-journey/overview.md)
 * [Approach to learning](the-knowledge-journey/approach-to-learning.md)
+* [The knowledge landscape](the-knowledge-journey/the-knowledge-landscape.md)
 
 ## Integrating PureType
 
