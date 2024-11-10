@@ -1,9 +1,9 @@
 ---
 icon: i-cursor
-description: Integrations with IDEs for feedback during development
+description: IDE extensions and plugins for feedback during development
 ---
 
-# IDE integrations
+# IDE extensions
 
 PureType provides an IDE plugin that boosts productivity by providing real-time, contextual feedback as developers code. It identifies potential issues with specific approaches, allowing developers to address them early in the software development lifecycle, enhancing code quality and reducing debugging time.
 
