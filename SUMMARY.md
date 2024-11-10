@@ -9,6 +9,8 @@
 
 ## The knowledge journey
 
+* [Overview](the-knowledge-journey/overview.md)
+
 ## Integrating PureType
 
 * [SCM integrations](integrating-puretype/scm-integrations.md)
