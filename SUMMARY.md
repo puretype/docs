@@ -10,6 +10,7 @@
 ## The knowledge journey
 
 * [Overview](the-knowledge-journey/overview.md)
+* [Approach to learning](the-knowledge-journey/approach-to-learning.md)
 
 ## Integrating PureType
 
