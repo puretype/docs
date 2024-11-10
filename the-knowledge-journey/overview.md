@@ -1,5 +1,6 @@
 ---
 icon: bullseye-arrow
+description: Explains the structure and goals of the knowledge journey
 ---
 
 # Overview

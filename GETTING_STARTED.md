@@ -1,24 +1,30 @@
 ---
-description: Get feedback and learning material in a few minutes
 icon: play
+description: Get started with feedback and learning material in only a few minutes
 ---
 
 # Getting started
 
-There's just a few steps to start getting value out of PureType:
+<figure><img src=".gitbook/assets/Screenshot 2024-11-10 at 18.15.18.png" alt="" width="563"><figcaption><p>The PureType onboarding widget in <a href="https://puretype.ai/learn">the web interface</a></p></figcaption></figure>
 
-1. Download the IDE assistant
-2. Assign PureType for pull request review
-3. Check your knowledge journey
+After [**signing up**](https://puretype.ai/user/signup), there's just a few steps to start learning with PureType as an individual developer, following the onboarding journey in [the web interface](https://puretype.ai/learn):
 
-## 1. Download the IDE assistant
+{% stepper %}
+{% step %}
+### Install an IDE extension or SCM integration
 
-Download the [extension](https://marketplace.visualstudio.com/items?itemName=puretype.puretype) from the VSCode marketplace.
+See the [IDE extension](integrating-puretype/ide-extensions.md) or [SCM integrations](integrating-puretype/scm-integrations.md) for further detail on installation and configuration for particular extensions
+{% endstep %}
 
-## 2. Assign PureType for pull request review
+{% step %}
+### Generate an issue
 
-Assign the PureType bot to one of your pull request reviews. It'll immediately have feedback, and learn based on which comments you wish to address, and those you wish to ignore.
+Open a file containing existing code — if using an IDE extension — or trigger a PureType review — if using a SCM integration
+{% endstep %}
 
-## 3. Check your knowledge journey
+{% step %}
+### Start your knowledge journey
 
-Log into the [PureType app](https://app.puretype.ai) to discover the reading and exercises that will help you to develop your understanding of the languages and technologies you are currently working in.
+Log into the [PureType app](https://app.puretype.ai) to discover the activities and exercises that will help you to develop your understanding of the languages and technologies you use
+{% endstep %}
+{% endstepper %}
