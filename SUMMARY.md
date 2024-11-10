@@ -9,7 +9,7 @@
 
 ## Integrating PureType
 
-* [SCM integrations](scm-and-ide-integrations.md)
+* [SCM integrations](integrating-puretype/scm-integrations.md)
 * [IDE integrations](integrating-puretype/ide-integrations.md)
 
 ## Working with PureType
