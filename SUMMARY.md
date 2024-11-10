@@ -16,7 +16,8 @@
 ## Integrating PureType
 
 * [Overview](integrating-puretype/overview.md)
-* [SCM integrations](integrating-puretype/scm-integrations.md)
+* [SCM integrations](integrating-puretype/scm-integrations/README.md)
+  * [GitHub](integrating-puretype/scm-integrations/github.md)
 * [IDE extensions](integrating-puretype/ide-extensions.md)
 
 ## Working with PureType

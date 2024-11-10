@@ -7,7 +7,7 @@ description: A platform for continuous developer education
 
 PureType is a platform for daily developer learning across [a number of languages and technologies](overview/supported-languages-and-technologies/), with two main layers:
 
-* for **feedback**, [code reviewers](integrating-puretype/scm-integrations.md) and [IDE extensions](integrating-puretype/ide-extensions.md) that help to avoid common mistakes at the function/module level by developers still learning about a new language or technology
+* for **feedback**, [code reviewers](integrating-puretype/scm-integrations/) and [IDE extensions](integrating-puretype/ide-extensions.md) that help to avoid common mistakes at the function/module level by developers still learning about a new language or technology
 * for **follow-up**, [a web interface](the-knowledge-journey/overview.md) to review and build understanding through regular exercises and suggested activities, building on the feedback patterns observed
 
 The goal is to give developers the structure and guidance they need to consistently grow and gain experience quickly.
@@ -22,9 +22,11 @@ See [Supported languages and technologies](overview/supported-languages-and-tech
 
 ### How does PureType integrate with my existing workflow?
 
+Learning materials are available on [the PureType web interface](https://puretype.ai); however, first, PureType needs to be integrated with your existing code to generate this personalised knowledge journey.
+
 There are integrations for different stages of your software development lifecycle, such as SCMs (e.g. GitHub) and IDEs (e.g. Visual Studio Code).
 
-See [SCM integrations](integrating-puretype/scm-integrations.md) and [IDE extensions](integrating-puretype/ide-extensions.md) for more details about how to integrate PureType into your team's software development workflow.
+See [SCM integrations](integrating-puretype/scm-integrations/) and [IDE extensions](integrating-puretype/ide-extensions.md) for more details about how to integrate PureType into your team's software development workflow.
 
 ### What does PureType cost?
 
