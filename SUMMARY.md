@@ -7,6 +7,8 @@
 * [Supported languages and technologies](overview/supported-languages-and-technologies/README.md)
   * [Elixir](overview/supported-languages-and-technologies/elixir.md)
 
+## The knowledge journey
+
 ## Integrating PureType
 
 * [SCM integrations](integrating-puretype/scm-integrations.md)
