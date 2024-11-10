@@ -1,7 +1,7 @@
 ---
-description: The range of PureType integrations for feedback on code
 icon: code-branch
+description: Integrations with third-party source control management for code review
 ---
 
-# SCM and IDE integrations
+# SCM integrations
 
