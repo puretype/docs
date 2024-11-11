@@ -1,8 +1,8 @@
 ---
 icon: spell-check
 description: >-
-  Languages and technologies supported by PureType's feedback and in its
-  learning material
+  Languages and technologies supported by PureType's feedback and learning
+  platform
 ---
 
 # Supported languages and technologies

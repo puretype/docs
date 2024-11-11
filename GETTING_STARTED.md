@@ -31,9 +31,4 @@ Log into the [**PureType** ](https://app.puretype.ai)[**web interface**](https:/
 
 ### All done!
 
-Congratulations! You've set up PureType and began your knowledge journey. Need support or want to give some feedback? There are a few ways:
-
-1. Join [**the PureType community**](https://join.slack.com/t/puretype/shared\_invite/zt-2u44m9ro6-yu0RVM5pCPidG\~\_mgkTUhg) to get in touch with the team
-2. E-mail [support@puretype.ai](mailto:support@puretype.ai) to open a support ticket
-3. Begin a chat with support using the Chat widget in the web interface, or
-4. Leave a feature idea or bug report in the Feedback widget.
+Congratulations! You've set up PureType and began your knowledge journey. Need support or want to give some feedback? See [**Help**](support/help.md) for the options available.

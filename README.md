@@ -16,6 +16,8 @@ With [the knowledge landscape](the-knowledge-journey/the-knowledge-landscape.md)
 
 <figure><img src=".gitbook/assets/Screenshot 2024-11-10 at 18.00.39.png" alt="" width="563"><figcaption><p>An example of a suggested area with exercises in the PureType web interface</p></figcaption></figure>
 
+## Frequently asked questions
+
 ### What languages and technologies does PureType support?
 
 See [Supported languages and technologies](overview/supported-languages-and-technologies/).

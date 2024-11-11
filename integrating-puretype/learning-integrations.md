@@ -1,6 +1,6 @@
 ---
-description: Integrations available to help developers build learning habits
 icon: school
+description: Integrations available to help developers build learning habits
 ---
 
 # Learning integrations
@@ -9,4 +9,4 @@ Building repeatable learning habits involves presenting cues to developers at su
 
 ## Slack
 
-Contact [support@puretype.ai](mailto:support@puretype.ai) for access to an early Slack bot that sends reminders.
+Contact [support@puretype.ai](mailto:support@puretype.ai) for access to an early Slack bot, to help shape development.

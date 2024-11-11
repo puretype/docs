@@ -4,9 +4,9 @@
 
 * [What is PureType?](README.md)
 * [Getting started](GETTING\_STARTED.md)
+* [Guiding principles](overview/guiding-principles.md)
 * [Supported languages and technologies](overview/supported-languages-and-technologies/README.md)
   * [Elixir](overview/supported-languages-and-technologies/elixir.md)
-* [Guiding principles](overview/guiding-principles.md)
 
 ## The knowledge journey
 
@@ -18,7 +18,7 @@
 ## Integrating PureType
 
 * [Overview](integrating-puretype/overview.md)
-* [Feedback structure](integrating-puretype/feedback-structure.md)
+* [Feedback principles](integrating-puretype/feedback-principles.md)
 * [SCM integrations](integrating-puretype/scm-integrations/README.md)
   * [GitHub](integrating-puretype/scm-integrations/github.md)
 * [IDE extensions](integrating-puretype/ide-extensions/README.md)
@@ -29,3 +29,7 @@
 
 * [How PureType handles your data](how-puretype-handles-your-data.md)
 * [Data residency](working-with-puretype/data-residency.md)
+
+## Support
+
+* [Help](support/help.md)
