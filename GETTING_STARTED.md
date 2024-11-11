@@ -13,19 +13,19 @@ After [**signing up**](https://puretype.ai/user/signup), there's just a few step
 {% step %}
 ### Install an IDE extension or SCM integration
 
-See the [IDE extension](integrating-puretype/ide-extensions.md) or [SCM integrations](integrating-puretype/scm-integrations/) for further detail on installation and configuration for particular extensions
+See the [IDE extension](integrating-puretype/ide-extensions/) or [SCM integrations](integrating-puretype/scm-integrations/) for further detail on installation and configuration
 {% endstep %}
 
 {% step %}
 ### Generate an issue
 
-Open a file containing existing code — if using an IDE extension — or trigger a PureType review — if using a SCM integration
+Open a file containing existing code (if using an IDE extension) and/or trigger a PureType review (if using a SCM integration)
 {% endstep %}
 
 {% step %}
 ### Start your knowledge journey
 
-Log into the [PureType app](https://app.puretype.ai) to discover the activities and exercises that will help you to develop your understanding of the languages and technologies you use
+Log into the [**PureType** ](https://app.puretype.ai)[**web interface**](https://app.puretype.ai) to discover the activities and exercises that will help you to develop your understanding of the languages and technologies you use
 {% endstep %}
 {% endstepper %}
 
