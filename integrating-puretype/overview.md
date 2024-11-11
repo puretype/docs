@@ -12,6 +12,6 @@ There are two types of integrations that provide PureType with the context it re
 
 The [nature of the feedback](feedback-principles.md) that PureType suggests is primarily intended for human consumption and requires judgement, so CI integrations are not a priority.
 
-One or both of these types of extension should be installed. PureType cannot generate a personalised learning journey without access to a developer's work.
+One or both of these types of extension should be installed. PureType cannot generate a personalised learning journey without access to a developer's activity.
 
 To help support developers build learning habits, [**learning integrations**](learning-integrations.md) are also available.

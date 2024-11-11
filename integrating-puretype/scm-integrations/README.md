@@ -17,8 +17,8 @@ See [Supported languages and technologies](../../overview/supported-languages-an
 
 ## GitHub
 
-See [GitHub](github.md) for further details.
+See [**GitHub**](github.md) for further details.
 
 ## Other SCM services
 
-Want to see another SCM service supported? [Please leave feedback on the board](https://feedback.puretype.ai/)
+Want to see another SCM service supported? [Please leave feedback on the board](https://feedback.puretype.ai/) or contact [support@puretype.ai](mailto:support@puretype.ai).

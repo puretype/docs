@@ -4,7 +4,6 @@
 
 * [What is PureType?](README.md)
 * [Getting started](GETTING\_STARTED.md)
-* [Guiding principles](overview/guiding-principles.md)
 * [Supported languages and technologies](overview/supported-languages-and-technologies/README.md)
   * [Elixir](overview/supported-languages-and-technologies/elixir.md)
 
