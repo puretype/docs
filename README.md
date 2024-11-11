@@ -12,7 +12,7 @@ PureType is a platform for daily developer learning across [a number of language
 
 The goal is to give developers the structure and guidance they need to consistently grow and gain experience quickly.
 
-With [the knowledge landscape](the-knowledge-journey/the-knowledge-landscape.md) (available in PureType Professional), engineering managers can oversee, review their team's capabilities.
+With [the knowledge landscape](the-knowledge-journey/the-knowledge-landscape.md) (available in PureType Professional), engineering managers can oversee, review and act on data about their team's capabilities.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-11-10 at 18.00.39.png" alt="" width="563"><figcaption><p>An example of a suggested area with exercises in the PureType web interface</p></figcaption></figure>
 

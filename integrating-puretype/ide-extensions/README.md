@@ -9,10 +9,10 @@ PureType provides an IDE plugin that boosts productivity by providing real-time,
 
 See [Supported languages and technologies](../../overview/supported-languages-and-technologies/) for particular areas of feedback that PureType may provide for a given language or technology.
 
-## Visual Studio Code
+## Cursor / Visual Studio Code
 
-See [**Visual Studio Code**](visual-studio-code.md).
+See [**Cursor / Visual Studio Code**](cursor-visual-studio-code.md).
 
 ## Other IDEs
 
-Want to see another IDE supported with an extension or plugin? [Please leave feedback on the board](https://feedback.puretype.ai/)
+Want to see another IDE supported with an extension or plugin? [Please leave feedback on the board](https://feedback.puretype.ai/) or contact [support@puretype.ai](mailto:support@puretype.ai).

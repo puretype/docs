@@ -22,7 +22,7 @@
 * [SCM integrations](integrating-puretype/scm-integrations/README.md)
   * [GitHub](integrating-puretype/scm-integrations/github.md)
 * [IDE extensions](integrating-puretype/ide-extensions/README.md)
-  * [Visual Studio Code](integrating-puretype/ide-extensions/visual-studio-code.md)
+  * [Cursor / Visual Studio Code](integrating-puretype/ide-extensions/cursor-visual-studio-code.md)
 * [Learning integrations](integrating-puretype/learning-integrations.md)
 
 ## Working with PureType
