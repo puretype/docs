@@ -28,6 +28,7 @@
 
 * [How PureType handles your data](how-puretype-handles-your-data.md)
 * [Data residency](working-with-puretype/data-residency.md)
+* [Privacy policy](working-with-puretype/privacy-policy.md)
 
 ## Support
 
