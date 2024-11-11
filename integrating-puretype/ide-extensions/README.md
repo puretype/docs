@@ -5,7 +5,9 @@ description: IDE extensions and plugins for feedback during development
 
 # IDE extensions
 
-PureType provides an IDE plugin that boosts productivity by providing real-time, contextual feedback as developers code. It identifies potential issues with specific approaches, allowing developers to address them early in the software development lifecycle, enhancing code quality and reducing debugging time.
+PureType provides IDE extensions that boosts productivity by providing real-time, contextual feedback as developers code.
+
+Each extension identifies potential issues with specific approaches, allowing developers to address them early in the software development lifecycle, enhancing code quality and reducing debugging time.
 
 See [Supported languages and technologies](../../overview/supported-languages-and-technologies/) for particular areas of feedback that PureType may provide for a given language or technology.
 
