@@ -31,4 +31,15 @@ Log into the [**PureType** ](https://app.puretype.ai)[**web interface**](https:/
 
 ### All done!
 
-Congratulations! You've set up PureType and began your knowledge journey. Need support or want to give some feedback? See [**Help**](support/help.md) for the options available.
+Congratulations! You've set up PureType and began your knowledge journey, guided by the onboarding journey in the platform.
+
+Need support or want to give some feedback? See [**Help**](support/help.md) for the options available.
+
+### What next?
+
+If you want to find out more about PureType, the theory behind it, or how it works:
+
+* [**The Knowledge Journey**](the-knowledge-journey/overview.md) details the pedagogical theory behind PureType, focusing on how knowledge can be developed, understood and applied by developers over time
+* **The Learning Platform** documents the PureType web interface, how it works and the goal of each dashboard and component.
+* [**Integrating PureType**](integrating-puretype/overview.md) discusses the details of integrating PureType with your SCM, IDE and other workflow tooling
+* [**Working with PureType**](broken-reference) covers all matters related to data security and compliance

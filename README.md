@@ -38,4 +38,4 @@ There are several pricing plans available, from Public (free) to Professional. S
 
 ### What happens with my code?
 
-For details on how PureType handles your organization's code, see [How PureType handles your data](how-puretype-handles-your-data.md).
+For details on how PureType handles your organization's code, see [How PureType handles your data](working-with-puretype/data-handling.md).

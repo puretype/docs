@@ -26,7 +26,7 @@
 
 ## Working with PureType
 
-* [How PureType handles your data](how-puretype-handles-your-data.md)
+* [Data handling](working-with-puretype/data-handling.md)
 * [Data residency](working-with-puretype/data-residency.md)
 * [Privacy policy](working-with-puretype/privacy-policy.md)
 
