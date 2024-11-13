@@ -17,7 +17,7 @@ By breaking down information into manageable parts, PureType enhances concentrat
 
 The top three recommended **modules** are listed, along with:
 
-* a short description of the module contents
+* a title and short description of the module contents
 * a visual indication of the language or technology associated with the module
 * a guide to the types of exercises involved in the module
 * an estimated time to completion for the module
