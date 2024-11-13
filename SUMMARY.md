@@ -14,6 +14,13 @@
 * [Activities and exercises](the-knowledge-journey/activities-and-exercises.md)
 * [The knowledge landscape](the-knowledge-journey/the-knowledge-landscape.md)
 
+## The learning platform
+
+* [Overview](the-learning-platform/overview.md)
+* [Learn](the-learning-platform/learn.md)
+* [My Progress](the-learning-platform/my-progress.md)
+* [Team Progress](the-learning-platform/team-progress.md)
+
 ## Integrating PureType
 
 * [Overview](integrating-puretype/overview.md)
