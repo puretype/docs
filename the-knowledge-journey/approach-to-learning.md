@@ -20,19 +20,13 @@ For now, PureType focuses on the lower-order levels — **remember**, **understa
 * **focus on single area** - the process of remembering, understanding and application can isolated to a single area and a set of concepts easily enough. In contrast, analysis, evaluation often require drawing knowledge from other areas for the process of comparison.
 * **more objective, less subjective** - the nature of analysis, evaluation and creation require a subjective judgement of which factors are important to consider. Lacking that context, these processes are generally more suitable for discussion within a team.
 
-### Knowledge Graphs
+## Knowledge Graphs
 
 A well-constructed **knowledge graph** serves as a powerful tool in structuring learning materials and setting concepts within context. By mapping relationships between different concepts and areas of knowledge, these graphs facilitate a clear and organized method of learning. Learners can visually connect new information to what they already know, enhancing understanding and retention.
 
 Moreover, knowledge graphs enable tracking and measuring progress against predefined learning outcomes. By breaking down learning objectives into interconnected nodes, educators and learners can establish clear milestones and assess progress efficiently.
 
 This structured approach, in a tool like PureType, not only provides clarity but also helps in identifying areas needing further attention, thus supporting a focused and effective learning journey.
-
-## Knowledge graphs
-
-**Knowledge graphs** act as a foundational representation that provide context and structure to concepts within the learning process. By mapping the relationships and dependencies among various topics, these graphs create a network where learners can anchor new information to existing knowledge.
-
-This visual and interconnected approach aids in deepening comprehension and improving memory retention. Additionally, knowledge graphs can enable precise tracking of learning progress. By associating learning outcomes with specific nodes and pathways within the graph, a learning platform like PureType can effectively measure understanding and advancement, ensuring that learning objectives are systematically achieved.
 
 ## Microlearning
 
