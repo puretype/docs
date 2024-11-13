@@ -17,8 +17,7 @@
 ## The learning platform
 
 * [Overview](the-learning-platform/overview.md)
-* [Learn](the-learning-platform/learn/README.md)
-  * [Per-area learning](the-learning-platform/learn/per-area-learning.md)
+* [Learn](the-learning-platform/learn.md)
 * [My Progress](the-learning-platform/my-progress.md)
 * [Team Progress](the-learning-platform/team-progress.md)
 
