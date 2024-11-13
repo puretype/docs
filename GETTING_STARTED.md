@@ -40,6 +40,6 @@ Need support or want to give some feedback? See [**Help**](support/help.md) for 
 If you want to find out more about PureType, the theory behind it, or how it works:
 
 * [**The Knowledge Journey**](the-knowledge-journey/overview.md) details the pedagogical theory behind PureType, focusing on how knowledge can be developed, understood and applied by developers over time
-* **The Learning Platform** documents the PureType web interface, how it works and the goal of each dashboard and component.
+* [**The Learning Platform**](the-learning-platform/overview.md) documents the PureType web interface, how it works and the goal of each dashboard and component.
 * [**Integrating PureType**](integrating-puretype/overview.md) discusses the details of integrating PureType with your SCM, IDE and other workflow tooling
 * [**Working with PureType**](broken-reference) covers all matters related to data security and compliance
