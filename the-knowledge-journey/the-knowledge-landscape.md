@@ -11,7 +11,7 @@ Knowledge landscape functionality is only available to [PureType Professional](h
 
 The **knowledge landscape** is a collection of deductions and visualisations of a team's knowledge, as assessed by PureType. Below is a discussion of the theory supporting this functionality.
 
-This collective information is designed to serve the best interests of all members of an engineering team, moving away from a linear "pass/fail" model of knowledge acquisition.
+This information is designed to serve the best interests of all members of an engineering team, moving away from a linear "pass/fail" model of knowledge acquisition to one that encourages knowledge sharing throughout the team.
 
 ## Areas
 
@@ -23,10 +23,8 @@ This insight empowers leaders to make data-driven decisions, focusing on enhanci
 
 ## Heatmaps
 
-This approach allows team members to quickly identify areas of strength and weakness by visually interpreting color variations. The heatmap helps in recognizing patterns, spot trends, and derive insights about the distribution and concentration of knowledge within the team, ultimately contributing to informed decision-making and strategic planning for skill development and resource allocation.
-
-See [**Team Progress**](../the-learning-platform/team-progress.md) for a description of the dashboard and oversight functionality within the web interface itself.
+This approach allows team members to quickly identify [areas](the-knowledge-landscape.md#areas) of strength and weakness, relevant to the team, by visually interpreting color variations in familiarity and recency. The heatmap helps in recognizing patterns, spot trends, and derive insights about the distribution and concentration of knowledge within the team, ultimately contributing to informed decision-making and strategic planning for skill development and resource allocation.
 
 ## Functionality
 
-See [**Team Progress**](../the-learning-platform/team-progress.md)
+See [**Team Progress**](../the-learning-platform/team-progress.md) for a description of the dashboard and oversight functionality within the web interface itself.
