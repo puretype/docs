@@ -7,7 +7,7 @@ description: Get started with feedback and learning material in only a few minut
 
 <figure><img src=".gitbook/assets/Screenshot 2024-11-10 at 18.15.18.png" alt="" width="563"><figcaption><p>The PureType onboarding widget in the web interface</p></figcaption></figure>
 
-After [**signing up**](https://puretype.ai/user/signup), there's just a few steps to start learning with PureType as an individual developer, following the onboarding journey in [the web interface](https://app.puretype.ai/learn):
+After [**signing up**](https://app.puretype.ai/user/signup), there's just a few steps to start learning with PureType as an individual developer, following the onboarding journey in [the web interface](https://app.puretype.ai/learn):
 
 {% stepper %}
 {% step %}
