@@ -5,7 +5,7 @@ description: A platform for continuous developer education
 
 # What is PureType?
 
-PureType is a platform for daily developer learning across [a number of languages and technologies](overview/supported-languages-and-technologies/), with two main layers:
+**PureType** is **a platform for daily developer learning** across [a number of languages and technologies](overview/supported-languages-and-technologies/), with two main layers:
 
 * for **feedback**, [code reviewers](integrating-puretype/scm-integrations/) and [IDE extensions](integrating-puretype/ide-extensions/) that help to avoid common mistakes at the function/module level by developers still learning about a new language or technology
 * for **follow-up**, [a web interface](the-knowledge-journey/overview.md) to review and build understanding through regular exercises and suggested activities, building on the feedback patterns observed
@@ -20,7 +20,7 @@ With [the knowledge landscape](the-knowledge-journey/the-knowledge-landscape.md)
 
 ### What languages and technologies does PureType support?
 
-See [Supported languages and technologies](overview/supported-languages-and-technologies/).
+See [**Supported languages and technologies**](overview/supported-languages-and-technologies/).
 
 ### How does PureType integrate with my existing workflow?
 
@@ -39,3 +39,7 @@ There are several pricing plans available, from Public (free) to Professional. S
 ### What happens with my code?
 
 For details on how PureType handles your organization's code, see [How PureType handles your data](working-with-puretype/data-handling.md).
+
+### How do I get started?
+
+Begin by [**signing up as a new user**](https://app.puretype.ai/user/signup) or by [**scheduling a demo**](broken-reference), then move onto the [Getting Started](GETTING\_STARTED.md) page.
