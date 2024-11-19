@@ -3,9 +3,9 @@ icon: lock-keyhole
 description: How PureType handles the security of your code for review
 ---
 
-# How PureType handles your data
+# Data handling
 
-Fully understanding your privacy and security needs, PureType provides this document with the goal of providing you with transparency as to how and what data is accessed, transferred and stored by PureType.
+Fully understanding your privacy and security needs, PureType provides this **data handling** overview with the goal of providing you with transparency as to how and what data is accessed, transferred and stored by PureType.
 
 ## Does it store my source code?
 

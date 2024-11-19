@@ -5,7 +5,11 @@ description: IDE extensions and plugins for feedback during development
 
 # IDE extensions
 
-PureType provides IDE extensions that boosts productivity by providing real-time, contextual feedback as developers code.
+{% hint style="warning" %}
+IDE extensions are available for PureType Individual and Professional users
+{% endhint %}
+
+PureType provides **IDE extensions** that boost productivity by providing real-time, contextual feedback as developers code.
 
 Each extension identifies potential issues with specific approaches, allowing developers to address them early in the software development lifecycle, enhancing code quality and reducing debugging time.
 

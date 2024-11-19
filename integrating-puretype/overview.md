@@ -5,7 +5,7 @@ description: Scope and purpose of PureType's third-party integrations
 
 # Overview
 
-There are two types of integrations that provide PureType with the context it requires to recommend personalised learning activities:
+There are two types of **third-party integrations** that provide PureType with the context it requires to recommend personalised learning activities:
 
 * [**SCM integrations**](scm-integrations/) to support automated review during the pull request process to augment human review
 * [**IDE** ](ide-extensions/)[**extensions**](ide-extensions/) to provide developers with feedback as they code, and to occasionally prompt them to review their learning material.

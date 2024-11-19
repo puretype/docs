@@ -5,7 +5,7 @@ description: A platform for continuous developer education
 
 # What is PureType?
 
-**PureType** is **a platform for daily developer learning** across [a number of languages and technologies](overview/supported-languages-and-technologies/), with two main layers:
+**PureType** is a platform for daily developer learning across [a number of languages and technologies](overview/supported-languages-and-technologies/), with two main layers:
 
 * for **feedback**, [code reviewers](integrating-puretype/scm-integrations/) and [IDE extensions](integrating-puretype/ide-extensions/) that help to avoid common mistakes at the function/module level by developers still learning about a new language or technology
 * for **follow-up**, [a web interface](the-knowledge-journey/overview.md) to review and build understanding through regular exercises and suggested activities, building on the feedback patterns observed

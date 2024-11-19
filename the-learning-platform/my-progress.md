@@ -5,7 +5,7 @@ description: Details about the "My Progress" tab of the web interface
 
 # My Progress
 
-[My Progress](https://app.puretype.ai/user/activity) is a dashboard allows a developer to consolidate and review their learning progress.
+[**My Progress**](https://app.puretype.ai/user/activity) is a dashboard allows a developer to consolidate and review their learning progress.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-13 at 18.43.13.png" alt=""><figcaption><p>An example of the recent issues list, for oversight</p></figcaption></figure>
 

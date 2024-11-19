@@ -7,7 +7,7 @@ description: Details about the Learn section of the learning platform
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-13 at 17.52.54 (1).png" alt=""><figcaption><p>An example of three modules listed in the Learn interface</p></figcaption></figure>
 
-[The Learn interface](https://app.puretype.ai/learn) is the main medium for knowledge acquisition, practice and application in suggested areas, across the relevant languages and technologies.
+[**The Learn interface**](https://app.puretype.ai/learn) is the main medium for knowledge acquisition, practice and application in suggested areas, across the relevant languages and technologies.
 
 It guides developers through a web of information by simplifying the learning process. It organizes complex topics into easily digestible **modules**, allowing developers to focus on specific areas during microlearning sessions.
 

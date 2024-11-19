@@ -9,7 +9,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-11-10 at 14.00.28.png" alt=""><figcaption><p>An example of a review comment on GitHub by the PureType reviewer bot</p></figcaption></figure>
 
-PureType's reviewer bot serves as a new software development lifecycle stage, intelligently identifying potential issues within your repository and providing constructive feedback. When it encounters code that could benefit from improvement or educational insight, PureType leaves comments that guide users towards relevant educational resources
+PureType's **SCM integrations** are reviewer bots that serve as a new software development lifecycle stage, intelligently identifying potential issues within your repository and providing constructive feedback. When it encounters code that could benefit from improvement or educational insight, PureType leaves comments that guide users towards relevant educational resources
 
 This feature not only helps in maintaining higher code quality but also facilitates continuous learning and development across the team.
 

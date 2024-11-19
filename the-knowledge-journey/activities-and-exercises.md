@@ -5,7 +5,7 @@ description: Overview of the types of activities and exercises that PureType pro
 
 # Activities and exercises
 
-Following the low-level parts of [Bloom's Taxonomy](approach-to-learning.md#blooms-taxonomy) (Remember, Understand and Apply), and an efficient approach to learning, the following activities and exercises are incorporated into PureType's exercise generation, suitable for various levels of understanding, while minimizing the need for lengthy text input.
+Following the low-level parts of [Bloom's Taxonomy](approach-to-learning.md#blooms-taxonomy) (Remember, Understand and Apply), and an efficient approach to learning, the following **activities and exercises** are incorporated into PureType's exercise generation, suitable for various levels of understanding, while minimizing the need for lengthy text input.
 
 The mix of exercises for a given area is a proprietary blend of different types and levels of exercises, based on previous interactions with PureType and what it has learnt about the developer's learning style, experience and capabilities.
 
