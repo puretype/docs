@@ -17,6 +17,8 @@ At this level, the focus is on recalling facts, terms, basic concepts, and answe
 * **Flashcards** - digital flashcards, including spaced repetition, with concepts, terms, or short code snippets on one side, and definitions or explanations on the other
 * **Matching exercises** - drag-and-drop interfaces to match concepts with their defintions or use cases
 
+This is supported by steps that are links to **reading** (read a section of (external) documentation or article) and **watching** (a section of an external video)
+
 ## Understand
 
 This level involves demonstrating understanding of facts and ideas by organizing, comparing, interpreting and stating main ideas:
