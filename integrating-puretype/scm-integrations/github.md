@@ -4,7 +4,7 @@ description: Detailed documentation of the GitHub SCM integration
 
 # GitHub
 
-Once [the PureType GitHub App](https://github.com/apps/puretype) is installed, teams can configure review behaviors specific to their workflow, enabling automated suggestions and tracking improvements.
+Once the PureType GitHub App is installed - see [Getting started](../../GETTING_STARTED.md) - teams can configure review behaviors specific to their workflow, enabling automated suggestions and tracking improvements.
 
 This integration ensures that developers consistently write idiomatic code and always receive feedback and follow-up to grow with each pull request.
 
@@ -14,7 +14,7 @@ This integration ensures that developers consistently write idiomatic code and a
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-11-10 at 13.54.52.png" alt="" width="563"><figcaption><p>The per-repository behaviour configuration for PureType review</p></figcaption></figure>
 
-You will be prompted to install the [PureType GitHub App](https://github.com/apps/puretype) as one of the onboarding steps. Once installed, you will be prompted to configure the desired behaviour for reviews.
+You will be prompted to install the PureType GitHub App as one of the onboarding steps (see [Getting started](../../GETTING_STARTED.md)). Once installed, you will be prompted to configure the desired behaviour for reviews.
 
 ### Access to further organizations
 
