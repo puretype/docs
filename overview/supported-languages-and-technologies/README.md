@@ -17,6 +17,7 @@ The per-language pages explain the depth and nature of the support for the parti
 * Rust (coming soon)
 * Typescript (coming soon)
 * Javascript (coming soon)
+* Python (coming soon)
 * Nim (coming soon)
 
 ## Technologies
