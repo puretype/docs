@@ -9,7 +9,7 @@ Fully understanding your privacy and security needs, PureType provides this **da
 
 ## Does it store my source code?
 
-PureType **does not store source code**, either transiently or permanently.
+PureType **does not store source code**, either transiently or permanently, including any third-party providers that may handle source code on behalf of PureType.
 
 The value of PureType's analysis is derived from analyzing the source code, and using the pattern of the issues detected to recommend and generate appropriate learning material to address the cause of these issues.
 
